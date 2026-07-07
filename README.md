@@ -49,5 +49,5 @@ Copy and paste this directly into your AI tool of choice. Just be sure to insert
 
 If you use these tools to build something incredible, I want to hear about it! 
 
-* **LinkedIn:** [Insert Your LinkedIn URL Here]
-* **Email:** [Insert Your Email Address Here]
+* **LinkedIn:** https://www.linkedin.com/in/jason-bondioli-6a336623/
+* **Email:** jason@glsteelservices.com
