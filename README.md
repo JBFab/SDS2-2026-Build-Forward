@@ -31,29 +31,13 @@ The SDS2 .NET API is highly specialized. To get working code from Claude or Gemi
 5.  **Tell AI to ask questions**  When implementing a large change, or starting a script, tell the AI to ask you clarifying questions as needed.
 6.  **Start with architecture - then expand** Start by describing how you want to tool to look and work, get the bare minimum in to get started, and then expand/add features.
 
----
 
-## 🛠️ The Master "Few-Shot" Prompt Template
-
-Copy and paste this directly into your AI tool of choice. Just be sure to insert your own working reference script at the very bottom!
-
-> **Act as an expert SDS2 parametric developer using Python 3 and the SDS2 .NET API. Your goal is to write a complete, functional Custom Member script for a vertical Fixed Ladder.**
-> 
-> **The Fixed Ladder must connect between two work points (bottom and top). Please include the following requirements:**
-> 
-> **1. Dialog Box/Parameters: Include variables for Rung Spacing (default 12 inches), Rail Material (default Flat Bar), Rung Material (default Round Bar), and Ladder Width (default 24 inches).**
-> **2. Side Rails: Generate two vertical side rails extending from the bottom work point to the top work point, offset by half the ladder width from the center line.**
-> **3. Rungs: Generate horizontal rungs connecting the two side rails. Use a loop to space them evenly based on the Rung Spacing parameter, starting from the bottom work point.**
-> 
-> **To ensure you use the exact correct SDS2 .NET API syntax, UI layout, and update logic, use the following working Custom Member script as your structural template. Do not invent generic Python geometry; adapt this specific SDS2 class structure to build the ladder.**
-> 
-> **Here is the working reference script:**
-> 
-> **[PASTE YOUR WORKING HANDRAIL OR PURLIN SCRIPT HERE]**
 >
 > Resources:
 > The Steel Forum Discord:  discord.gg/aDaVwXKD43
-> SDS2 tips and tricks Facebook Group: https://www.facebook.com/groups/647787387260439 
+>
+> SDS2 tips and tricks Facebook Group: https://www.facebook.com/groups/647787387260439
+>
 > SDS2 Official forum: https://forums.sds2.com/index.php
 
 ---
