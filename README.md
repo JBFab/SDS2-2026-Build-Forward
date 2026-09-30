@@ -50,6 +50,11 @@ Copy and paste this directly into your AI tool of choice. Just be sure to insert
 > **Here is the working reference script:**
 > 
 > **[PASTE YOUR WORKING HANDRAIL OR PURLIN SCRIPT HERE]**
+>
+> Resources:
+> The Steel Forum Discord:  discord.gg/aDaVwXKD43
+> SDS2 tips and tricks Facebook Group: https://www.facebook.com/groups/647787387260439 
+> SDS2 Official forum: https://forums.sds2.com/index.php
 
 ---
 
