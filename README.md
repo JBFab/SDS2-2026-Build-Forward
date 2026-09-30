@@ -34,7 +34,7 @@ The SDS2 .NET API is highly specialized. To get working code from Claude or Gemi
 
 >
 > Resources:
-> The Steel Forum Discord:  discord.gg/aDaVwXKD43
+> The Steel Forum Discord:  www.discord.gg/aDaVwXKD43
 >
 > SDS2 tips and tricks Facebook Group: https://www.facebook.com/groups/647787387260439
 >
