@@ -7,6 +7,7 @@ Welcome to the official resource page for my 2026 conference presentation! Thank
 
 ## 📥 Presentation Files & Downloads
 
+* **JBDetailing.zip** - 2026-10-22 - UPDATE!  - THIS IS ALL YOU NEED TO GET STARTED.  SIMPLY UNZIP THIS FILE TO YOUR PLUGINS FOLDER, AND YOU WILL HAVE THE LADDER AND PRECAST STAIR MEMBER SHARED AT THE 2026 BUILD FORWARD.  THE FILES BELOW ARE NOT NEEDED
 * **JBSimpleLadder.zip** - plugin files to be unzipped and saved in your SDS2 plugin folder.
 * **JBTools.zip** to be saved into your SDS2 macro folder
 * **SDS2PluginStarter.exe** - save where convenient (optional)
